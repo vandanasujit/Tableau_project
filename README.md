@@ -36,3 +36,6 @@ This project presents a comprehensive sales analysis using Tableau, utilizing th
 ## Insights:
 * The analysis provides a clear understanding of the business’s sales and profit performance across various dimensions, such as time, customer segments, geography, and product categories.
 * It highlights key areas of growth and potential improvements, such as optimizing shipping methods or adjusting discount strategies to increase profitability.
+
+  ![TableauProject](https://github.com/user-attachments/assets/f154b9c2-8d4e-4587-b850-3b616f9f8cf2)
+
